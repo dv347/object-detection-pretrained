@@ -20,7 +20,7 @@ pip install -r requirements.txt
 By default, the model is set to train for 1 epoch for quick demonstration purposes. For best results, it is recommended to train for 10-35 epochs.
 
 To train the model from scratch:
-```python
+```bash
 python src/main.py
 ```
 
